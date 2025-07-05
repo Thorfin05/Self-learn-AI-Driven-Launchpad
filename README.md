@@ -8,3 +8,6 @@ AI-Driven-Launchpad is my self learn journey where i use some Ai tools for learn
 - Created functions for calculator, palindrome
 - Practiced list and dictionary operations
 - Mini CLI calculator built and Student report card
+## Day 3 - EDA, Pandas and some basics
+- used a dataset from kaggle for practicing
+- learned some basic preprocessing of data 
